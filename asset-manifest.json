@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CHAT-GPT/static/css/main.306f47f1.css",
+    "main.js": "/CHAT-GPT/static/js/main.154dfade.js",
+    "static/media/user-icon.png": "/CHAT-GPT/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/chatgpt.svg": "/CHAT-GPT/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/CHAT-GPT/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/send.svg": "/CHAT-GPT/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/CHAT-GPT/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/CHAT-GPT/index.html",
+    "static/media/home.svg": "/CHAT-GPT/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/CHAT-GPT/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.306f47f1.css.map": "/CHAT-GPT/static/css/main.306f47f1.css.map",
+    "main.154dfade.js.map": "/CHAT-GPT/static/js/main.154dfade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306f47f1.css",
+    "static/js/main.154dfade.js"
+  ]
+}
