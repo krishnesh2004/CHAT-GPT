@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CHAT-GPT/static/css/main.306f47f1.css",
+    "main.css": "/CHAT-GPT/static/css/main.97647763.css",
     "main.js": "/CHAT-GPT/static/js/main.154dfade.js",
     "static/media/user-icon.png": "/CHAT-GPT/static/media/user-icon.79487ebd1120a8a7b004.png",
     "static/media/chatgpt.svg": "/CHAT-GPT/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
@@ -10,11 +10,11 @@
     "index.html": "/CHAT-GPT/index.html",
     "static/media/home.svg": "/CHAT-GPT/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
     "static/media/message.svg": "/CHAT-GPT/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
-    "main.306f47f1.css.map": "/CHAT-GPT/static/css/main.306f47f1.css.map",
+    "main.97647763.css.map": "/CHAT-GPT/static/css/main.97647763.css.map",
     "main.154dfade.js.map": "/CHAT-GPT/static/js/main.154dfade.js.map"
   },
   "entrypoints": [
-    "static/css/main.306f47f1.css",
+    "static/css/main.97647763.css",
     "static/js/main.154dfade.js"
   ]
 }
