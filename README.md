@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# 💬 ChatGPT Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sleek, responsive ChatGPT clone built with **React** and powered by **Together AI's large language models (LLMs)**.  
+Includes a modern glass UI, example queries, and smooth interactive chat.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features
+✅ Modern, glassmorphism-inspired UI  
+✅ React functional components & hooks  
+✅ Auto-scroll to latest message  
+✅ Example query buttons  
+✅ Environment-secured API keys with `.env`  
+✅ Clean, maintainable codebase
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ⚙️ Tech Stack
+- 🖥️ **Frontend:** React, JavaScript, custom CSS (Tailwind-like styles)
+- 🤖 **LLM API:** Together AI (meta-llama, mistral, etc.)
+- 📦 **Package manager:** npm / pnpm
+- 🔐 **Environment:** `.env` for API keys (excluded from Git)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
+## 🎥 Demo Video
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🖼️ Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🏠 Left Sidebar
+- Contains quick example queries
+- Shows your brand & logo
+- Lets you start new conversations easily
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Left Sidebar](https://github.com/user-attachments/assets/4adf2bf1-56b3-4943-910d-7ee352ef18f1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 💬 Main Chat Interface
+- Conversations auto-scroll as new messages arrive
+- Stylish gradient background
+- Differentiated user & bot messages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Main Chat](https://github.com/user-attachments/assets/7863d591-0284-4049-bfa0-4a33d40c5f4f)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🔄 Restart Conversation
+- Click **New Chat** to clear the screen and start fresh
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![New Chat](https://github.com/user-attachments/assets/86399ced-21bf-4955-b325-c00e53c91c46)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 🚀 Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
