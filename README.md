@@ -1,4 +1,4 @@
-# 💬 ChatGPT Clone
+# 💬 ChatGPT 
 
 A sleek, responsive ChatGPT clone built with **React** and powered by **Together AI's large language models (LLMs)**.  
 Includes a modern glass UI, example queries, and smooth interactive chat.
